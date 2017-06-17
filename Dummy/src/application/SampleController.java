@@ -1,7 +1,8 @@
 package application;
 
 public class SampleController {
-	public void sample(){
+
+	public static void clickOnButton(){
 		
 	}
 }
